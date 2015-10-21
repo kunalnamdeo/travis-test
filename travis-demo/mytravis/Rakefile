@@ -1,0 +1,5 @@
+require 'rake'
+
+task :default do
+	put "Hello World from Rakefile"
+end
